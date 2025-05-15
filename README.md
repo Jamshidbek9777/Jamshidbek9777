@@ -2,10 +2,10 @@
 <h3 align="center">Frontend Developer | React Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://rasulov.vercel.com">🌐 Website</a> • 
-  <a href="https://linkedin.com/in/yourusername">🔗 LinkedIn</a> • 
-  <a href="mailto:youremail@example.com">📧 Email</a> • 
-  <a href="https://t.me/yourtelegram">💬 Telegram</a>
+  <a href="https://rasulov.vercel.app">🌐 Website</a> • 
+  <a href="https://www.linkedin.com/in/jamshidbek04/">🔗 LinkedIn</a> • 
+  <a href="mailto:jamshidbekrasulovuz@gmail.com">📧 Email</a> • 
+  <a href="https://t.me/Jamshidbek_rasulov">💬 Telegram</a>
 </p>
 
 ---
