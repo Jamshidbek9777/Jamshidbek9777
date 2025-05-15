@@ -56,8 +56,8 @@ Here are a few things I’ve worked on recently:
 I'm always open to networking and collaboration:
 
 - 📬 Email: mailto:jamshidbekrasulovuz@gmail.com
-- 📎 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/jamshidbek04/))  
-- 💬 Telegram: [@yourtelegram](https://t.me/Jamshidbek_rasulov)
+- 📎 LinkedIn: (https://www.linkedin.com/in/jamshidbek04/))  
+- 💬 Telegram: (https://t.me/Jamshidbek_rasulov)
 
 ---
 
