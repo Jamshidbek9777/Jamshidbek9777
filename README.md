@@ -45,7 +45,7 @@ Here are a few things I’ve worked on recently:
 
 - 🧸 **Toy Store Website** – E-commerce front-end for parents to buy toys for their kids  
 - 🏫 **School Website** – Modern landing page for a German-partnered educational institution  
-- 🏭 **Plastic Manufacturing Site** – Fully responsive site with interactive elements and animations
+- 🏭 **Travel Website** – Fully responsive site with interactive elements
 
 > Want to see more? Check out my pinned repos below ⬇️
 
@@ -55,9 +55,9 @@ Here are a few things I’ve worked on recently:
 
 I'm always open to networking and collaboration:
 
-- 📬 Email: youremail@example.com  
-- 📎 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- 💬 Telegram: [@yourtelegram](https://t.me/yourtelegram)
+- 📬 Email: mailto:jamshidbekrasulovuz@gmail.com
+- 📎 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/jamshidbek04/))  
+- 💬 Telegram: [@yourtelegram](https://t.me/Jamshidbek_rasulov)
 
 ---
 
