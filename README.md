@@ -15,8 +15,6 @@
 - 🔭 I’m currently working on **responsive web apps using React + Tailwind CSS**
 - 🌱 Learning **Node.js** to build full-stack applications
 - 💡 Interested in **UI/UX**, animations with **Framer Motion**, and building user-friendly websites
-- 📚 I study at the **Faculty of Economics**
-- ✍️ Currently writing a research report on **Bitcoin price determinants (2019–2024)**
 
 ---
 
